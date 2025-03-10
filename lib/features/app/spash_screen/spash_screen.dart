@@ -28,7 +28,7 @@ class SpashScreen extends StatefulWidget {
    Widget build(BuildContext context) {
      return Scaffold(
        body: Center(
-         child: Text("Welcome to Flutter Firebase"),
+         child: Text("Welcome to Mantech"),
        ),
      );
    }
